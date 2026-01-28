@@ -3,7 +3,7 @@
  * given a set of coins, how many ways can you make change for a target amount?
  *
  * @author Zach Blick
- * @author [YOUR NAME HERE]
+ * @author Amay Srinivasan
  */
 
 public class MakingChange {
